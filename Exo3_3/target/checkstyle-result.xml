@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.3/Exo3_3/src/main/java/uvsq/M1/td1/Exo3_3/RobotMobile.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="7" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.3/Exo3_3/src/main/java/uvsq/M1/td1/Exo3_3/Direction.java">
+<error line="7" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="16" column="37" severity="error" message="&apos;dir&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="30" column="45" severity="error" message="&apos;dir&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.3/Exo3_3/src/main/java/uvsq/M1/td1/Exo3_3/App.java">
+<error line="8" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.3/Exo3_3/src/main/java/uvsq/M1/td1/Exo3_3/RobotStatique.java">
+<error line="7" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.3/Exo3_3/src/main/java/uvsq/M1/td1/Exo3_3/Position.java">
+<error line="7" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="8" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="21" column="35" severity="error" message="&apos;x&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="21" column="48" severity="error" message="&apos;y&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.3/Exo3_3/src/main/java/uvsq/M1/td1/Exo3_3/Robot.java">
+<error line="7" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="10" column="28" severity="error" message="Variable &apos;position&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="14" column="29" severity="error" message="Variable &apos;direction&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="32" severity="error" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+</file>
+</checkstyle>
